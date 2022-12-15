@@ -8,7 +8,7 @@ spring:
       client:
         url: http://localhost:9020
         instance:
-          name: Customer API Service
+          name: USER API SERVICE
 server:
   servlet:
     context-path: /cinema/api/v1
